@@ -1,0 +1,6 @@
+board:
+  name: vidi_x
+  full_name: VIDI X v1.0 (ESP32-WROVER-B)
+  vendor: others
+  socs:
+  - name: esp32

@@ -1,0 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+
+config BOARD_VIDI_X
+	select SOC_ESP32_WROVER_E_N4R8
+	select SOC_ESP32_PROCPU if BOARD_VIDI_X_ESP32_PROCPU
